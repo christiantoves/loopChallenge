@@ -22,7 +22,7 @@ for (i=1; i<=100;i++){
 console.log(sum)
 //5. Factorial 
 var product=1
-for (i=1; i<12; i++){
-    prodcut= product*(i+1);
+for (i=1; i<=12; i++){
+    product= product*i;
 }
 console.log(product)
